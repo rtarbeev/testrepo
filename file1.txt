@@ -1,2 +1,4 @@
 hello world!!
 NEW string123
+
+good bye, America, o-o-o...
